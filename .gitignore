@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+release/
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Claude / AI config (local-only)
+.claude/
+
+# User data
+server/data.json
+
+# Dev helper scripts
+启动.bat
+
+# Environment
+.env
+.env.*
+
+# Auto-generated
+LICENSE
+
+# Electron packaging temp
+*.tmp
